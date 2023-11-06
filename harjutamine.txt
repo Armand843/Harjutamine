@@ -1,0 +1,1 @@
+GitHub on firma mis pakkub veebimajutustentust tarkvaraarenduseks Giti tarkvara. See teeb Giti kasutamise kergemaks  küksikisikutele ja gruppidel, et kasutada versiooni kontrolli ja kollabiratsiooni.

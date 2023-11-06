@@ -1,5 +1,5 @@
-GitHub sai alguse 19. oktoobril 2007.
-Veebileht lasti välja 2008 aprill.
+GitHub sai alguse 19. oktoobril 2007. GitHubi Beta faas.
+Veebileht lasti välja 2008 aprill. Alatest sellest oli teenus kättesaadav.
 Microsoft oli hakkanud üheks suurimaks GitHubi kasutajaks alatest 2012.
 Microsoft kuulutas huvi hankida GitHubi 4 juunil 2018 7.5 milrjard dollari eest.
 Microsoft kinnitas diili 26 oktoober 2018.
